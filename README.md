@@ -25,10 +25,9 @@ The code requires at least 14GB VRAM.
 
 ## Quickstart
 
-Both training and inference for IMPUS are available at [IMPUS.ipynb](IMPUS.ipynb).
-
+Both training and inference for IMPUS are available at [IMPUS.ipynb](IMPUS.ipynb). Images in the notebook is for simple demo (a little blur, replace with high resolution image generate better results), we will update with more examples later. 
 ## Reference
-
+to do: add code reference
 ## Citation 
 ```bibtex
 @article{yang2024impus,
