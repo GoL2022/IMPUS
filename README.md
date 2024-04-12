@@ -16,10 +16,6 @@
 
 This code was tested with Python 3.9, [Pytorch](https://pytorch.org/) 1.13.1. based on [huggingface / diffusers](https://github.com/huggingface/diffusers#readme). The pretrained diffusion model is from [Stable Diffusion v-1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4). Install package using [requirements.txt](requirements.txt) by ```pip install -r requirements.txt```.
 
-```bash
-conda env create -f environment.yml
-conda activate IMPUS
-```
 
 The code requires at least 14GB VRAM.
 
