@@ -21,16 +21,17 @@ The code requires at least 14GB VRAM.
 
 ## Quickstart
 
-Both training and inference for IMPUS are available at [IMPUS.ipynb](IMPUS.ipynb). Images in the notebook is for simple demo (a little blur, replace with high resolution image generate better results), we will update with more examples later. 
+Both training and inference for IMPUS are available at [IMPUS.ipynb](IMPUS.ipynb). Images in the notebook is for simple demo (replace with high resolution image generate better results), we will update with more examples later. 
 ## Reference
 to do: add code reference
 ## Citation 
 ```bibtex
-@article{yang2024impus,
-  title={IMPUS: Image Morphing with Perceptually-Uniform Sampling Using Diffusion Models},
-  author={Yang, Zhaoyuan, Zhengyang Yu, Zhiwei Xu, Jaskirat Singh, Jing Zhang, Dylan Campbell, Peter Tu, and Richard Hartley},
-  journal={The Twelfth International Conference on Learning Representations},
-  year={2024},
-  url={https://openreview.net/forum?id=gG38EBe2S8}
+@inproceedings{
+yang2024impus,
+title={{IMPUS}: Image Morphing with Perceptually-Uniform Sampling Using Diffusion Models},
+author={Zhaoyuan Yang and Zhengyang Yu and Zhiwei Xu and Jaskirat Singh and Jing Zhang and Dylan Campbell and Peter Tu and Richard Hartley},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=gG38EBe2S8}
 }
 ```
