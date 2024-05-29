@@ -22,6 +22,13 @@ The code requires at least 14GB VRAM.
 ## Quickstart
 
 Both training and inference for IMPUS are available at [IMPUS.ipynb](IMPUS.ipynb). Images in the notebook is for simple demo (replace with high resolution image generate better results), we will update with more examples later. 
+
+## Morphing by command line
+
+[run_morph.py](run_morph.py) takes command line arguments to generate morphing outputs. It requires path of directory for saving image, two image paths and a prompt for morphing two images.  
+
+python run_morph.py --dir <saved_dir_path> --input_image_1 <img_path_1> --input_image_2 <img_path_2> --prompt <prompt_for_morphing>
+
 ## Reference
 to do: add code reference
 ## Citation 
