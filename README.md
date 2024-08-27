@@ -6,11 +6,7 @@
 
 ![teaser](teaser/barbie_oppen.jpg)
 
-### [Paper](https://openreview.net/pdf?id=gG38EBe2S8)
-
-## TODO 
-
-- [ ] Release Benchmark & pretrained checkpoints  
+### [Paper](https://openreview.net/pdf?id=gG38EBe2S8) 
 
 ## Environment setup 
 
