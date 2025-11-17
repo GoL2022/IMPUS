@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+'''
+The script is directly convert from the jupyter notebook.
+please refer to notebook for all the detailed intermediate steps and outputs. 
+'''
 # In[1]:
 
 
